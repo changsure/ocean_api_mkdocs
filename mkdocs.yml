@@ -1,0 +1,16 @@
+site_name: Ocean Clouds API
+pages:
+- Home: 'index.md'
+- 'Ocean API':
+    - 'Public Resources': 'ocean/api_for_public.md'
+    - 'Developer Resources': 'ocean/api_for_developer.md'
+    - 'Application Resources': 'ocean/api_for_application.md'
+    - 'Back Service Resources': 'ocean/api_for_backservice.md'
+    - 'App User Resources': 'ocean/api_for_app_user.md'
+- 'Official Back Service API':
+    - 'Standard User Service': 'backservice/standard_user.md'
+    - 'Facebook User Service': 'backservice/facebook_user.md'
+    - 'Weibo User Service': 'backservice/weibo_user.md'
+    - 'Data Persistence': 'backservice/data_persistence.md'
+
+theme: readthedocs
