@@ -3,7 +3,7 @@
 Data persistence is a basic service for app to save their data. Normally, a app's business process is design to several CRUD data storage function.
 This service provide app ability to design their own entities schema, and maintance the entity data via API.
 
-Create or modify app's entity schema, please read the [Guide Doc](http://doc.oceanclouds.com/guide/en/index.html) of oceanclouds. 
+Create or modify app's entity schema, please read the [Guide Doc](http://doc.oceanclouds.com/guide) of oceanclouds. 
 
 ##Exchange Standard
 
